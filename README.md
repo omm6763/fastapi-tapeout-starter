@@ -1,4 +1,4 @@
-# FastAPI Tapeout Microservice 🚀
+# FastAPI Microservice 🚀
 
 A production-ready backend microservice built with **FastAPI**, **PostgreSQL**, **SQLAlchemy**, **Docker**, and **JWT authentication**.  
 This project provides a clean, modular API structure suitable for real-world applications such as design data processing, workflow automation, or cloud-based microservices.
